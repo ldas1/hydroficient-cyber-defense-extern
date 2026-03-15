@@ -12,5 +12,6 @@ Build pipeline folder holds examples of how an unsecured IoT system works and ho
 
 Project 4 holds IoT management system with increased security with MTLS files.
 
-Project 5 holds increased secuirty measures such as AI-anonoly detection stystem, and increased warnings by testing the pipeline with real world cyberattacks to test the robust nature of the system.
+Project 5 holds increased secuirty measures such as AI-anomoly detection system, and increased warnings by testing the pipeline with real world cyberattacks to test the robust nature of the system.
+
 
