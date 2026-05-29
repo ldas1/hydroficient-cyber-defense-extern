@@ -1,7 +1,6 @@
 
 # IoT CyberDefense Externship
 
-A brief description of what this project does and who it's for
 
 Client: Hydroficient builds IoT-powered water intelligence systems for hotels, hospitals, and apartment complexes. Their sensors monitor flow in real time, detect leaks, optimize usage, and can remotely shut off water to prevent damage—saving water, money, and infrastructure.
 Every sensor is a potential entry point. Every message can be intercepted. Every shutoff command can be faked. Attackers don't need to break everything. They just need to break trust.
