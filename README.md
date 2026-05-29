@@ -15,4 +15,6 @@ Project 5 holds increased secuirty measures such as AI-anomoly detection system,
 
 
 <img width="623" height="369" alt="Screenshot 2026-05-28 at 7 18 05 PM" src="https://github.com/user-attachments/assets/0c5eb494-0a24-474d-9b7f-6c9182fd9362" />
+<img width="623" height="371" alt="Screenshot 2026-05-28 at 7 20 38 PM" src="https://github.com/user-attachments/assets/2d9f98d2-9975-4bab-b658-fdfcc79aacc5" />
+
 
